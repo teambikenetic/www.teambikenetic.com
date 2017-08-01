@@ -9,4 +9,4 @@ Currently we have two annual events that we run:
 - loming up quick in late August is our road race that is actually a gravel race, [Dirty BikenetiCrit](https://www.facebook.com/DirtyBikenetiCrit/)
 - later in December, we finish off the Sportif CX series with our CX race: [Bikeneticx Cyclocross](https://www.facebook.com/bikeneticx/)
 
-We’re sponsored & fully supported by Bikenetic Full Service Bike Shop, 201 West Jefferson St, Falls Church VA 22046, phone 703-Keg-Ride (really). Check them out on Facebook. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from Kona, Jamis, Raleigh, in addition to excellent local support from Falls Church businesses: Stahl Homes LLC, Cafe Kindred, and Clare and Don's Beach Shack.
+We’re sponsored & fully supported by Bikenetic Full Service Bike Shop, 201 West Jefferson St, Falls Church VA 22046, phone 703-Keg-Ride (really). Check them out on Facebook. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, in addition to excellent local support from Falls Church businesses: Stahl Homes LLC, Cafe Kindred, and Clare and Don's Beach Shack.
