@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### Who is Team Bikenetic?
 
-You can use the [editor on GitHub](https://github.com/teambikenetic/www.teambikenetic.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We’re a Cyclocross & Mountain Bike racing team in the Washington DC area. Basically, we have fun in dirt. But we also do lots of public service and outreach:  MORE trail-building, Bike to Work support, WABA advocacy, Phoenix Bikes volunteering, and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We started in 2014 with 25 members and now enjoy the pleasant company of 75. We’re currently the size we want to be, but if you’re interested, get to know us at races and on rides, hang out with us, and let’s see if we’re a good fit for each other. Membership requires a stated annual commitment to racing and volunteering. For our ongoing activity, check out our Facebook page.
 
-### Markdown
+We’re sponsored & fully supported by Bikenetic Full Service Bike Shop, 201 West Jefferson St, Falls Church VA 22046, phone 703-Keg-Ride (really). Check them out on Facebook. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from Shimano, Stages, Kona, Jamis, Raleigh, and all kinds of support from Clare & Don’s Beach Shack in downtown Falls Church City. Thank you all!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/teambikenetic/www.teambikenetic.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [WordPress](https://teambikenetic.wordpress.com/)
+- [Instagram](https://www.instagram.com/teambikenetic/)
