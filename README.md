@@ -6,7 +6,7 @@ We started in 2014 with 25 members and now enjoy the pleasant company of ~75. We
 
 Currently we run two annual events:
 
-- August - our road race that is actually a gravel race, [Dirty BikenetiCrit](https://www.facebook.com/DirtyBikenetiCrit/)
-- November - our annual CX race has recently joined the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/): [Bikeneticx Cyclocross](https://www.facebook.com/bikeneticx/)
+- [Dirty BikenetiCrit](https://www.facebook.com/DirtyBikenetiCrit/): August - our road race that is actually a gravel race
+- [Bikeneticx Cyclocross](https://www.facebook.com/bikeneticx/): November - our annual CX race has recently joined the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
 
 We’re sponsored & fully supported by Bikenetic Full Service Bike Shop, 201 West Jefferson St, Falls Church VA 22046, phone 703-Keg-Ride (really). Check them out on Facebook. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, in addition to excellent local support from Falls Church businesses: Stahl Homes LLC, Cafe Kindred, and Clare and Don's Beach Shack.
