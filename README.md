@@ -1,6 +1,6 @@
 ### Who is Team Bikenetic?
 
-![Team Bikenetic watching US CX nationals, 2018](https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/26815379_10104690405531564_2148703993397995141_n.jpg?oh=176492aae2c5f1bf4ad87d9a4408bd75&oe=5ADA531B)
+![Team Bikenetic watching US CX nationals, 2018](https://scontent-ort2-1.cdninstagram.com/vp/2d2516aa59470ad3c2f8bacf935da5e6/5B9CBD4C/t51.2885-15/s640x640/sh0.08/e35/30602983_172308840139534_590628127131041792_n.jpg)
 
 We’re a cyclocross and mountain bike racing team in the Washington DC area. Basically, we have fun in dirt. But we also do lots of public service and outreach: [MORE](http://www.more-mtb.org/) trail-building, [Bike to Work Day](https://www.biketoworkmetrodc.org/) support, [WABA](http://www.waba.org/) advocacy, and [Phoenix Bikes](http://www.phoenixbikes.org/) volunteering.
 
