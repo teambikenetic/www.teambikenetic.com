@@ -1,0 +1,72 @@
+<head>
+<title>2018 dirty bikeneticrit volunteer schedule</title>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["timeline"]});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var container = document.getElementById('example4.2');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+
+    dataTable.addColumn({ type: 'string', id: 'Role' });
+    dataTable.addColumn({ type: 'string', id: 'Name' });
+    dataTable.addColumn({ type: 'date', id: 'Start' });
+    dataTable.addColumn({ type: 'date', id: 'End' });
+    dataTable.addRows([
+      [ 'Date',        'Saturday', new Date('2018-07-18T00:00:00'), new Date('2018-07-19T00:00:00') ],
+
+      [ 'Avery S',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Bob C',       'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Brad H',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Brad H',      'registration/bib prep', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Cara S',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Cara S',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Casey B',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Casey B',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Charlie L',   'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Dane P',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Dave K',      'bus drive from shop to camp', new Date('2018-07-18T07:00:00'), new Date('2018-07-18T08:00:00') ],
+      [ 'Dave K',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Davis K',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Eric A',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'George L',    'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Ian B',       'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Ian B',       'trailer delivery', new Date('2018-07-18T07:00:00'), new Date('2018-07-18T08:00:00') ],
+      [ 'Jan F',       'mowing coordination', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Jason S',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Jay O',       'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Jay O',       'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Jocelyn H',   'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Jocelyn H',   'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Mark Scheer', 'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Mark Stahl',  'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Matt H',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Mike E',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Peter S',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Peter S',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Robyn S',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Rob L',       'beer delivery/transport', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Rob L',       'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Simona V',    'registration/bib prep', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Sonja R',     'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ],
+      [ 'Trey H',      'course prep/tape', new Date('2018-07-18T08:00:00'), new Date('2018-07-18T12:00:00') ]
+
+   ]);
+
+    var options = {
+      timeline: { groupByRowLabel: false }
+    };
+
+    chart.draw(dataTable, options);
+  }
+</script>
+
+</head>
+<body>
+
+<div id="example4.2" style="height: 1000px;"></div>
+
+</body>
+</html>

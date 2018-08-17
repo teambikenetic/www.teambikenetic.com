@@ -1,0 +1,45 @@
+<head>
+<title>2018 dirty bikeneticrit volunteer schedule</title>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["timeline"]});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var container = document.getElementById('example4.2');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+
+    dataTable.addColumn({ type: 'string', id: 'Role' });
+    dataTable.addColumn({ type: 'string', id: 'Name' });
+    dataTable.addColumn({ type: 'date', id: 'Start' });
+    dataTable.addColumn({ type: 'date', id: 'End' });
+    dataTable.addRows([
+      [ 'Date',        'Friday', new Date('2018-07-17T00:00:00'), new Date('2018-07-18T00:00:00') ],
+      [ 'Davis K',     'load bus @ shop', new Date('2018-07-17T18:00:00'), new Date('2018-07-17T19:00:00') ],
+      [ 'Eric A',      'load bus @ shop', new Date('2018-07-17T18:00:00'), new Date('2018-07-17T19:00:00') ],
+      [ 'George L',    'load hay', new Date('2018-07-17T07:00:00'), new Date('2018-07-17T11:00:00') ],
+      [ 'Jason S',     'load bus @ shop', new Date('2018-07-17T18:00:00'), new Date('2018-07-17T19:00:00') ],
+      [ 'Jay O',       'load bus @ shop', new Date('2018-07-17T18:00:00'), new Date('2018-07-17T19:00:00') ],
+      [ 'Mark Stahl',  'load hay', new Date('2018-07-17T07:00:00'), new Date('2018-07-17T11:00:00') ],
+      [ 'Mark Stahl',  'load bus @ shop', new Date('2018-07-17T18:00:00'), new Date('2018-07-17T19:00:00') ],
+      [ 'Matt H',      'load bus @ shop', new Date('2018-07-17T18:00:00'), new Date('2018-07-17T19:00:00') ],
+      [ 'Maureen B',   'load bus @ shop', new Date('2018-07-17T18:00:00'), new Date('2018-07-17T19:00:00') ]
+
+   ]);
+
+    var options = {
+      timeline: { groupByRowLabel: true }
+    };
+
+    chart.draw(dataTable, options);
+  }
+</script>
+
+</head>
+<body>
+
+<div id="example4.2" style="height: 1000px;"></div>
+
+</body>
+</html>

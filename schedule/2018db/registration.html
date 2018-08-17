@@ -1,0 +1,49 @@
+<head>
+<title>2018 dirty bikeneticrit volunteer schedule</title>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["timeline"]});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var container = document.getElementById('example4.2');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+
+    dataTable.addColumn({ type: 'string', id: 'Role' });
+    dataTable.addColumn({ type: 'string', id: 'Name' });
+    dataTable.addColumn({ type: 'date', id: 'Start' });
+    dataTable.addColumn({ type: 'date', id: 'End' });
+    dataTable.addRows([
+      [ 'Date',        'Sunday', new Date('2018-07-19T00:00:00'), new Date('2018-07-20T00:00:00') ],
+
+      [ 'Brad H',      'registration', new Date('2018-07-19T06:30:00'), new Date('2018-07-19T16:00:00') ],
+      [ 'Dave K',      'registration shift #1', new Date('2018-07-19T07:00:00'), new Date('2018-07-19T10:00:00') ],
+      [ 'Erik R',      'registration shift #3', new Date('2018-07-19T13:00:00'), new Date('2018-07-19T16:00:00') ],
+      [ 'Greg F',      'registration shift #3', new Date('2018-07-19T13:00:00'), new Date('2018-07-19T16:00:00') ],
+      [ 'Mark Scheer', 'registration shift #2', new Date('2018-07-19T10:00:00'), new Date('2018-07-19T13:00:00') ],
+      [ 'Maureen B',   'registration shift #1', new Date('2018-07-19T07:00:00'), new Date('2018-07-19T10:00:00') ],
+      [ 'Mike D',      'registration shift #2', new Date('2018-07-19T10:00:00'), new Date('2018-07-19T13:00:00') ],
+      [ 'Mike E',      'registration shift #1', new Date('2018-07-19T07:00:00'), new Date('2018-07-19T08:30:00') ],
+      [ 'Mike E',      'registration shift #2', new Date('2018-07-19T10:00:00'), new Date('2018-07-19T13:00:00') ],
+      [ 'Mike E',      'registration shift #3', new Date('2018-07-19T13:00:00'), new Date('2018-07-19T16:00:00') ],
+      [ 'Nathaniel B', 'registration shift #1', new Date('2018-07-19T07:00:00'), new Date('2018-07-19T10:00:00') ],
+      [ 'Simona V',    'registration', new Date('2018-07-19T06:30:00'), new Date('2018-07-19T16:00:00') ]
+
+   ]);
+
+    var options = {
+      timeline: { groupByRowLabel: true }
+    };
+
+    chart.draw(dataTable, options);
+  }
+</script>
+
+</head>
+<body>
+
+<div id="example4.2" style="height: 1000px;"></div>
+
+</body>
+</html>
