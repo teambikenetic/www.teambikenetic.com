@@ -8,15 +8,15 @@ We started in 2014 with 25 members and now enjoy the pleasant company of ~75. We
 
 Currently we run two annual events:
 
-- [Dirty BikenetiCrit](https://www.bikereg.com/DirtyBikenetiCrit): August 19, 2018 - our gravel crit (licened as a USAC road race)
-    - [2018 results](https://www.road-results.com/race/10775)
-    - [2017 results](https://www.road-results.com/race/9552)
-    - [2016 results](https://www.road-results.com/race/8243)
-- Bikeneticx Cyclocross: November 18, 2018 - our annual CX race has recently joined the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
+- [BikeneticX Cyclocross](https://www.bikereg.com/37544): November 18, 2018 - our annual CX race has recently joined the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
     - [2017 results](https://www.crossresults.com/race/7924)
     - [2016 results](https://www.crossresults.com/race/6900)
     - [2015 results](https://www.crossresults.com/race/5900)
     - [2014 results](https://www.crossresults.com/race/4944)
+- [Dirty BikenetiCrit](https://www.bikereg.com/DirtyBikenetiCrit): August 19, 2018 - our gravel crit (licened as a USAC road race)
+    - [2018 results](https://www.road-results.com/race/10775)
+    - [2017 results](https://www.road-results.com/race/9552)
+    - [2016 results](https://www.road-results.com/race/8243)
 
 We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
 
