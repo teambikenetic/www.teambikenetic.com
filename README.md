@@ -18,6 +18,6 @@ Currently we run two annual events:
     - [2017 results](https://www.road-results.com/race/9552)
     - [2016 results](https://www.road-results.com/race/8243)
 
-We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
+We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, and Norco in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
 
 We also publish a brief, weekly podcast. It is public but oriented towards the team or interests of the team. Feel free to subscribe, feedback is welcome. [iTunes](https://itunes.apple.com/us/podcast/team-bikenetic-bicycle-shorts/id1436089238?mt=2), or [Stitcher](https://www.stitcher.com/s?fid=233261).
