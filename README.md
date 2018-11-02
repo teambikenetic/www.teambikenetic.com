@@ -2,7 +2,7 @@
 
 ![Stearman ripping, 2018](https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/40126151_2188502391191397_8011410507342807040_o.jpg?_nc_cat=0&oh=2c04c9a3bb11217e67ae65f53d978bdc&oe=5C1DE27F)
 
-We’re a cyclocross and mountain bike racing team in the Washington DC area. 
+Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
 Currently we run two annual events:
 
@@ -16,7 +16,7 @@ Currently we run two annual events:
     - [2017 results](https://www.road-results.com/race/9552)
     - [2016 results](https://www.road-results.com/race/8243)
 
-We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
+We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, and Norco in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
 
 We publish a brief, weekly [podcast](https://overcast.fm/itunes1436089238/team-bikenetic-bicycle-shorts). It is public but oriented towards the team or interests of the team. Feel free to subscribe, feedback is welcome. [Overcast](https://overcast.fm/itunes1436089238/team-bikenetic-bicycle-shorts), [iTunes](https://itunes.apple.com/us/podcast/team-bikenetic-bicycle-shorts/id1436089238?mt=2), or [Stitcher](https://www.stitcher.com/s?fid=233261).
 
