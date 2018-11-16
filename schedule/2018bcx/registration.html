@@ -1,0 +1,80 @@
+<head>
+<title>2018 bcx volunteer schedule</title>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["timeline"]});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var container = document.getElementById('example4.2');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+
+    dataTable.addColumn({ type: 'string', id: 'Role' });
+    dataTable.addColumn({ type: 'string', id: 'Name' });
+    dataTable.addColumn({ type: 'date', id: 'Start' });
+    dataTable.addColumn({ type: 'date', id: 'End' });
+    dataTable.addRows([
+
+      [ 'Date',        'Sunday', new Date(Date.UTC(2018, 11, 18, 11, 0, 0)), new Date(Date.UTC(2018, 11, 18, 22, 0, 0, 0)) ],
+
+      [ 'Arden S',     'registration', new Date(Date.UTC(2018, 11, 18, 11, 30, 00)), new Date(Date.UTC(2018, 11, 18, 15, 30, 00)) ],
+      [ 'Brad H',      'race, mens 3', new Date(Date.UTC(2018, 11, 18, 16, 00, 00)), new Date(Date.UTC(2018, 11, 18, 16, 45, 00)) ],
+      [ 'Brad H',      'race, mens sscx ❤', new Date(Date.UTC(2018, 11, 18, 19, 00, 00)), new Date(Date.UTC(2018, 11, 18, 19, 45, 00)) ],
+      [ 'Brad H',      'registration', new Date(Date.UTC(2018, 11, 18, 11, 30, 00)), new Date(Date.UTC(2018, 11, 18, 15, 00, 00)) ],
+      [ 'Brad H',      'registration', new Date(Date.UTC(2018, 11, 18, 17, 00, 00)), new Date(Date.UTC(2018, 11, 18, 18, 30, 00)) ],
+      [ 'Brad H',      'registration', new Date(Date.UTC(2018, 11, 18, 20, 00, 00)), new Date(Date.UTC(2018, 11, 18, 21, 30, 00)) ],
+      [ 'Brian I',     'race, mens 4', new Date(Date.UTC(2018, 11, 18, 16, 00, 00)), new Date(Date.UTC(2018, 11, 18, 16, 45, 00)) ],
+      [ 'Brian I',     'race, mens sscx ❤', new Date(Date.UTC(2018, 11, 18, 19, 00, 00)), new Date(Date.UTC(2018, 11, 18, 19, 45, 00)) ],
+      [ 'Brian I',     'registration', new Date(Date.UTC(2018, 11, 18, 11, 30, 00)), new Date(Date.UTC(2018, 11, 18, 13, 30, 00)) ],
+      [ 'Cyndi J',     'prizes/happy humps', new Date(Date.UTC(2018, 11, 18, 18, 30, 00)), new Date(Date.UTC(2018, 11, 18, 21, 30, 00)) ],
+      [ 'Cyndi J',     'race, womens masters 1/2/3/4', new Date(Date.UTC(2018, 11, 18, 17, 00, 00)), new Date(Date.UTC(2018, 11, 18, 17, 40, 00)) ],
+      [ 'Cyndi J',     'registration', new Date(Date.UTC(2018, 11, 18, 12, 30, 00)), new Date(Date.UTC(2018, 11, 18, 16, 00, 00)) ],
+      [ 'Dave K',      'race, mens 3', new Date(Date.UTC(2018, 11, 18, 16, 00, 00)), new Date(Date.UTC(2018, 11, 18, 16, 45, 00)) ],
+      [ 'Dave K',      'registration', new Date(Date.UTC(2018, 11, 18, 17, 30, 00)), new Date(Date.UTC(2018, 11, 18, 19, 30, 00)) ],
+      [ 'Erik R',      'race, mens 4', new Date(Date.UTC(2018, 11, 18, 16, 00, 00)), new Date(Date.UTC(2018, 11, 18, 16, 45, 00)) ],
+      [ 'Erik R',      'registration', new Date(Date.UTC(2018, 11, 18, 13, 30, 00)), new Date(Date.UTC(2018, 11, 18, 15, 30, 00)) ],
+      [ 'Greg F',      'race, mens sscx ❤', new Date(Date.UTC(2018, 11, 18, 19, 00, 00)), new Date(Date.UTC(2018, 11, 18, 19, 45, 00)) ],
+      [ 'Greg F',      'registration', new Date(Date.UTC(2018, 11, 18, 16, 00, 00)), new Date(Date.UTC(2018, 11, 18, 18, 00, 00)) ],
+      [ 'Jocelyn H',   'race, womens 4', new Date(Date.UTC(2018, 11, 18, 17, 00, 00)), new Date(Date.UTC(2018, 11, 18, 17, 40, 00)) ],
+      [ 'Jocelyn H',   'registration', new Date(Date.UTC(2018, 11, 18, 18, 30, 00)), new Date(Date.UTC(2018, 11, 18, 20, 30, 00)) ],
+      [ 'Jon L',       'race, mens masters 3/4/5', new Date(Date.UTC(2018, 11, 18, 14, 00, 00)), new Date(Date.UTC(2018, 11, 18, 14, 40, 00)) ],
+      [ 'Jon L',       'registration', new Date(Date.UTC(2018, 11, 18, 17, 30, 00)), new Date(Date.UTC(2018, 11, 18, 19, 30, 00)) ],
+      [ 'Mark Scheer', 'race, mens 4', new Date(Date.UTC(2018, 11, 18, 16, 00, 00)), new Date(Date.UTC(2018, 11, 18, 16, 45, 00)) ],
+      [ 'Mark Scheer', 'registration', new Date(Date.UTC(2018, 11, 18, 17, 30, 00)), new Date(Date.UTC(2018, 11, 18, 19, 30, 00)) ],
+      [ 'Maureen B',   'race, womens 4', new Date(Date.UTC(2018, 11, 18, 17, 00, 00)), new Date(Date.UTC(2018, 11, 18, 17, 40, 00)) ],
+      [ 'Maureen B',   'registration', new Date(Date.UTC(2018, 11, 18, 19, 30, 00)), new Date(Date.UTC(2018, 11, 18, 21, 30, 00)) ],
+      [ 'Mike D',      'race, mens 5', new Date(Date.UTC(2018, 11, 18, 13, 15, 00)), new Date(Date.UTC(2018, 11, 18, 13, 50, 00)) ],
+      [ 'Mike D',      'registration', new Date(Date.UTC(2018, 11, 18, 15, 30, 00)), new Date(Date.UTC(2018, 11, 18, 17, 30, 00)) ],
+      [ 'Mike E',      'race, mens 4 (skipping?)', new Date(Date.UTC(2018, 11, 18, 16, 00, 00)), new Date(Date.UTC(2018, 11, 18, 16, 45, 00)) ],
+      [ 'Mike E',      'registration', new Date(Date.UTC(2018, 11, 18, 11, 30, 00)), new Date(Date.UTC(2018, 11, 18, 18, 00, 00)) ],
+      [ 'Paula C',     'final course walk through', new Date(Date.UTC(2018, 11, 18, 11, 00, 00)), new Date(Date.UTC(2018, 11, 18, 12, 30, 00)) ],
+      [ 'Paula C',     'race, womens 3', new Date(Date.UTC(2018, 11, 18, 17, 00, 00)), new Date(Date.UTC(2018, 11, 18, 17, 40, 00)) ],
+      [ 'Paula C',     'registration', new Date(Date.UTC(2018, 11, 18, 19, 30, 00)), new Date(Date.UTC(2018, 11, 18, 21, 30, 00)) ],
+      [ 'Simona V',    'race, womens 1/2/3', new Date(Date.UTC(2018, 11, 18, 17, 00, 00)), new Date(Date.UTC(2018, 11, 18, 17, 40, 00)) ],
+      [ 'Simona V',    'race, womens sscx ❤', new Date(Date.UTC(2018, 11, 18, 19, 00, 00)), new Date(Date.UTC(2018, 11, 18, 19, 45, 00)) ],
+      [ 'Simona V',    'registration', new Date(Date.UTC(2018, 11, 18, 11, 30, 00)), new Date(Date.UTC(2018, 11, 18, 16, 00, 00)) ],
+      [ 'Simona V',    'registration', new Date(Date.UTC(2018, 11, 18, 18, 00, 00)), new Date(Date.UTC(2018, 11, 18, 18, 30, 00)) ],
+      [ 'Simona V',    'registration', new Date(Date.UTC(2018, 11, 18, 20, 00, 00)), new Date(Date.UTC(2018, 11, 18, 21, 30, 00)) ],
+      [ 'Wyatt S',     'final course walk through', new Date(Date.UTC(2018, 11, 18, 11, 00, 00)), new Date(Date.UTC(2018, 11, 18, 12, 30, 00)) ],
+      [ 'Wyatt S',     'parking', new Date(Date.UTC(2018, 11, 18, 12, 30, 00)), new Date(Date.UTC(2018, 11, 18, 13, 30, 00)) ],
+      [ 'Wyatt S',     'race, mens masters 3/4/5', new Date(Date.UTC(2018, 11, 18, 14, 00, 00)), new Date(Date.UTC(2018, 11, 18, 14, 40, 00)) ],
+      [ 'Wyatt S',     'registration', new Date(Date.UTC(2018, 11, 18, 15, 30, 00)), new Date(Date.UTC(2018, 11, 18, 17, 30, 00)) ]
+
+   ]);
+
+    var options = {
+      timeline: { groupByRowLabel: true }
+    };
+
+    chart.draw(dataTable, options);
+  }
+</script>
+
+</head>
+<body>
+
+<div id="example4.2" style="height: 1000px;"></div>
+
+</body>
+</html>
