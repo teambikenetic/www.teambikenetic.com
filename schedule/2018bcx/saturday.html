@@ -1,0 +1,75 @@
+<head>
+<title>2018 bcx volunteer schedule</title>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["timeline"]});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var container = document.getElementById('example4.2');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+
+    dataTable.addColumn({ type: 'string', id: 'Role' });
+    dataTable.addColumn({ type: 'string', id: 'Name' });
+    dataTable.addColumn({ type: 'date', id: 'Start' });
+    dataTable.addColumn({ type: 'date', id: 'End' });
+    dataTable.addRows([
+      [ 'Date',        'Saturday', new Date('2018-11-17T00:00:00'), new Date('2018-11-18T00:00:00') ],
+      [ 'Brad H',      'registration/bib prep', new Date('2018-11-17T08:00:00'), new Date('2018-11-17T12:00:00') ],
+      [ 'Cara S',      'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Casey B',     'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Charlie L',   'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Charlie L',   'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Chris M',     'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Chris R',     'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Chris S',     'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Christina S', 'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Christine F', 'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Dane P',      'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Dave K',      'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Dave S',      'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Eric A',      'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Erik R',      'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'George L',    'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'George L',    'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Hamilton H',  'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'James H',     'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Jay O',       'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Jay O (?)',   'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Jocelyn H',   'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Jon L',       'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Josh A',      'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Laura D',     'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Mark Scheer', 'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Mark Stahl',  'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Matt H',      'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Matt H,',     'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Mike D',      'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Mike E',      'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Paula C',     'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Pete B',      'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Peter S',     'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Simona V',    'registration/bib prep', new Date('2018-11-17T08:00:00'), new Date('2018-11-17T12:00:00') ],
+      [ 'Sonja R',     'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+      [ 'Sonja R (?)', 'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Tania P',     'course prep/tape', new Date('2018-11-17T15:00:00'), new Date('2018-11-17T18:00:00') ],
+      [ 'Wyatt S',     'course prep/tape', new Date('2018-11-17T06:00:00'), new Date('2018-11-17T10:00:00') ],
+
+   ]);
+
+    var options = {
+      timeline: { groupByRowLabel: true }
+    };
+
+    chart.draw(dataTable, options);
+  }
+</script>
+
+</head>
+<body>
+
+<div id="example4.2" style="height: 1000px;"></div>
+
+</body>
+</html>
