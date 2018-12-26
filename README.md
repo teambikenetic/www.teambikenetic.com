@@ -1,6 +1,6 @@
 ### Who is Team Bikenetic?
 
-![Stearman ripping, 2018](https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/40126151_2188502391191397_8011410507342807040_o.jpg?_nc_cat=0&oh=2c04c9a3bb11217e67ae65f53d978bdc&oe=5C1DE27F)
+![Team Bikenetic and Katie F'n Compton, 2018](https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/48377513_2393828050658829_8756224906678501376_o.jpg?_nc_cat=102&_nc_ht=scontent.fbed1-2.fna&oh=f89a61759c5f2129e002eecc3965dd71&oe=5CD21619)
 
 Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
