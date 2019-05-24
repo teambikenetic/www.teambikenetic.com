@@ -1,6 +1,6 @@
 ### Who is Team Bikenetic?
 
-![Team Bikenetic and Katie F'n Compton, 2018](https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/48377513_2393828050658829_8756224906678501376_o.jpg?_nc_cat=102&_nc_ht=scontent.fbed1-2.fna&oh=f89a61759c5f2129e002eecc3965dd71&oe=5CD21619)
+![View from the Keystone Off-Road](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/61192955_10105405996900724_224846730561060864_n.jpg?_nc_cat=102&_nc_oc=AQmGRmDW2BOmMI-2f_3xIW27j7WwHVSWmsHECDqbYR4avWsBfV7ENazkD9dWwdUrlWI&_nc_ht=scontent-iad3-1.xx&oh=9bc5c65b910ac96de17fb0a057a9ba63&oe=5D5CCA2E)
 
 Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
@@ -12,7 +12,7 @@ Currently we run two annual events:
     - [2016 results](https://www.crossresults.com/race/6900)
     - [2015 results](https://www.crossresults.com/race/5900)
     - [2014 results](https://www.crossresults.com/race/4944)
-- [Dirty BikenetiCrit](https://www.bikereg.com/DirtyBikenetiCrit): August 11, 2019 - our gravel crit (licened as a USAC road race)
+- [Dirty BikenetiCrit](https://www.bikereg.com/DirtyBikenetiCrit): August 11, 2019 - our gravel crit (now licensed as a USAC cross race)
     - [2018 results](https://www.road-results.com/race/10775)
     - [2017 results](https://www.road-results.com/race/9552)
     - [2016 results](https://www.road-results.com/race/8243)
