@@ -6,7 +6,7 @@ Team Bikenetic is a cyclocross and mountain bike racing team in the Washington D
 
 Currently we run two annual events:
 
-- [BikeneticX Cyclocross](https://www.bikereg.com/37544): November 24, 2019 - our annual CX race has recently joined the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
+- [BikeneticX Cyclocross](https://www.bikereg.com/37544): November 24, 2019 - our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
     - [2018 results](https://www.crossresults.com/race/8767)
     - [2017 results](https://www.crossresults.com/race/7924)
     - [2016 results](https://www.crossresults.com/race/6900)
