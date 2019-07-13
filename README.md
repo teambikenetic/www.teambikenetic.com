@@ -1,10 +1,10 @@
 ### Who is Team Bikenetic?
 
+#### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
+
+#### Join us at our upcoming Dirty BikenetiCrit! Registration is open and is available here: https://www.bikereg.com/42028
+
 ![View from the Keystone Off-Road](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/61192955_10105405996900724_224846730561060864_n.jpg?_nc_cat=102&_nc_oc=AQmGRmDW2BOmMI-2f_3xIW27j7WwHVSWmsHECDqbYR4avWsBfV7ENazkD9dWwdUrlWI&_nc_ht=scontent-iad3-1.xx&oh=9bc5c65b910ac96de17fb0a057a9ba63&oe=5D5CCA2E)
-
-Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
-
-Join us at our upcoming Dirty BikenetiCrit! Registration is open and is available here: https://www.bikereg.com/42028
 
 Currently we run two annual events:
 
