@@ -2,18 +2,20 @@
 
 ![Nathaniel being Nathaniel](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/67875338_678043609705_3038723116067979264_o.jpg?_nc_cat=108&_nc_oc=AQkrh0zHJWKady7xXGDBGcDubSZnvHLpVv5_ejcQNGfvQnIRp0Tp3mQZjYvJKQxcLz8&_nc_ht=scontent-iad3-1.xx&oh=bf9485acd2e5290c88f509e8a6289863&oe=5E0F733C)
 
-- [BikeneticX Cyclocross](https://www.bikereg.com/37544): November 24, 2019 - our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
-    - [2018 results](https://www.crossresults.com/race/8767)
-    - [2017 results](https://www.crossresults.com/race/7924)
-    - [2016 results](https://www.crossresults.com/race/6900)
-    - [2015 results](https://www.crossresults.com/race/5900)
-    - [2014 results](https://www.crossresults.com/race/4944)
+[BikeneticX Cyclocross](https://www.bikereg.com/37544) is on Sunday, November 24, 2019. This is our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/). Registration is open!
+
+Historical BikeneticX results are here:
+- [2018 results](https://www.crossresults.com/race/8767)
+- [2017 results](https://www.crossresults.com/race/7924)
+- [2016 results](https://www.crossresults.com/race/6900)
+- [2015 results](https://www.crossresults.com/race/5900)
+- [2014 results](https://www.crossresults.com/race/4944)
 
 In the past, we ran our gravel crit, Dirty BikenetiCrit! for four years. Results are here:
-    - [2019 results](https://www.crossresults.com/race/9082)
-    - [2018 results](https://www.road-results.com/race/10775)
-    - [2017 results](https://www.road-results.com/race/9552)
-    - [2016 results](https://www.road-results.com/race/8243)
+- [2019 results](https://www.crossresults.com/race/9082)
+- [2018 results](https://www.road-results.com/race/10775)
+- [2017 results](https://www.road-results.com/race/9552)
+- [2016 results](https://www.road-results.com/race/8243)
 
 We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from [Rolf Prima](https://rolfprima.com/), Kona, Jamis, Raleigh, and Norco in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
 
