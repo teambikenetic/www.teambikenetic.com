@@ -2,15 +2,14 @@
 
 ![Nathaniel being Nathaniel](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/67875338_678043609705_3038723116067979264_o.jpg?_nc_cat=108&_nc_oc=AQkrh0zHJWKady7xXGDBGcDubSZnvHLpVv5_ejcQNGfvQnIRp0Tp3mQZjYvJKQxcLz8&_nc_ht=scontent-iad3-1.xx&oh=bf9485acd2e5290c88f509e8a6289863&oe=5E0F733C)
 
-#### Currently we run two annual events:
-
 - [BikeneticX Cyclocross](https://www.bikereg.com/37544): November 24, 2019 - our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
     - [2018 results](https://www.crossresults.com/race/8767)
     - [2017 results](https://www.crossresults.com/race/7924)
     - [2016 results](https://www.crossresults.com/race/6900)
     - [2015 results](https://www.crossresults.com/race/5900)
     - [2014 results](https://www.crossresults.com/race/4944)
-- Dirty BikenetiCrit! - our gravel crit
+
+In the past, we ran our gravel crit, Dirty BikenetiCrit! for four years. Results are here:
     - [2019 results](https://www.crossresults.com/race/9082)
     - [2018 results](https://www.road-results.com/race/10775)
     - [2017 results](https://www.road-results.com/race/9552)
