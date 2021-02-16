@@ -1,6 +1,8 @@
 #### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
-![Did you hear the news? Fundraising closed for the Raise + Ride last night and you all raised over $70,000!!](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/117163514_4215705345137748_1668554141540527249_o.jpg?_nc_cat=104&_nc_sid=9267fe&_nc_ohc=ksDdXQLGaJsAX9eWFfz&_nc_ht=scontent-iad3-1.xx&oh=af1ccbfdfb389140594e492117fce633&oe=5F62FB90)
+[Ruby](https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/147562793_5029655177076090_3554175717493148970_o.jpg?_nc_cat=104&ccb=3&_nc_sid=a26aad&_nc_ohc=QkYv6vr4PNEAX8KIJal&_nc_ht=scontent-dfw5-2.xx&oh=1369e5c37a5bb0a504598df8ccafe7a7&oe=60510109)
+
+A highlight of 2020, we participated in Phoenix Bike's Raise + Ride event, which in total raised over $70k!
 
 BikeneticX Cyclocross is our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
 - [2019 results](https://www.crossresults.com/race/9776)
