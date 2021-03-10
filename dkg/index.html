@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>dkg</title>
+		<script type="text/javascript">
+
+var challengesUrl = 'https://dkgrwtsapi.dirtykittengravel.com/scoring/challenges';
+var challengesRoot = 'https://dkgrwtsapi.dirtykittengravel.com/leaderboards/challenges/';
+
+//challengesUrl = 'challenges'; challengesRoot = '';
+
+function onLoad() {
+	getLeaderboards();
+}
+
+function getLeaderboards() {
+	ajaxGet(challengesUrl, function(data) {
+		var comparable = item => new Date(item.endDate);
+		data.sort((first, second) => comparable(second) - comparable(first));
+		
+		for(challenge of data) {
+			if(challenge.challengeType == 'tour') {
+				getLeaderboard(challenge._id);
+			}
+		}
+	});
+}
+
+function getLeaderboard(id) {
+	//lol, race case
+	ajaxGet(`${challengesRoot}${id}`, dataReceived);
+}
+
+function dataReceived(data) {
+	var flattened = getFlattened(data);
+	
+	var table = document.createElement('table');
+	table.className = 'table';
+	document.getElementById('data').appendChild(table);
+
+	var header = document.createElement('tr');
+	header.className = 'row';
+	table.appendChild(header);
+
+	var name = document.createElement('td');
+	name.className = 'name';
+	name.innerHTML = data.challenge.name.toLowerCase();
+	header.appendChild(name);
+		
+	var time = document.createElement('td');
+	time.className = 'column';
+	time.innerHTML = 'time';
+	header.appendChild(time);
+		
+	var distance = document.createElement('td');
+	distance.className = 'column';
+	distance.innerHTML = 'km';
+	header.appendChild(distance);
+		
+	var elevation = document.createElement('td');
+	elevation.className = 'column';
+	elevation.innerHTML = 'elev km';
+	header.appendChild(elevation);
+	
+	var i=1;
+	for(row of flattened) {
+		var outputRow = document.createElement('tr');
+		outputRow.className = 'row';
+		table.appendChild(outputRow);
+
+		var name = document.createElement('td');
+		name.className = 'name';
+		name.innerHTML = `${i++} ${row.racer.firstName} ${row.racer.lastName.substring(0, 1)}`.toLowerCase();
+		outputRow.appendChild(name);
+		
+		var time = document.createElement('td');
+		time.className = 'column';
+		var minutes = Math.trunc(row.totalTime / 60);
+		time.innerHTML = `${Math.trunc(minutes / 60)}:${String((minutes % 60)).padStart(2, '0')}`;
+		outputRow.appendChild(time);
+		
+		var distance = document.createElement('td');
+		distance.className = 'column';
+		distance.innerHTML = `${Math.trunc(row.totalDistance/1000)}`;
+		outputRow.appendChild(distance);
+		
+		var elevation = document.createElement('td');
+		elevation.className = 'column';
+		elevation.innerHTML = `${(row.totalElevation/1000).toFixed(1)}`;
+		outputRow.appendChild(elevation);
+	}
+	document.getElementById('loading').style.visibility = 'hidden';
+}
+
+function getFlattened(data) {
+	var flattened=[];
+	for(leaderBoard of data.leaderBoards) {
+		for(result of leaderBoard.results) {
+			if(result.racer.team.startsWith('Team Bikenetic')) {
+				flattened.push(result);
+			}
+		}
+	}
+	var comparable = item => item.totalTime;
+
+	//awwww, you created a field called "metric" and you decided not to use it?  :)
+	
+	if(data.challenge.metric == 'distance' || data.challenge.name == 'Adventure Kitten') {
+		comparable = item => item.totalDistance;
+	}
+	else if(data.challenge.metric == 'elevation' || data.challenge.name == 'Kitten Crusher') {
+		comparable = item => item.totalElevation;
+	}
+
+	flattened.sort((first, second) => comparable(second) - comparable(first));
+	return flattened;
+}
+
+function ajaxGet(url, callback) {
+	var xhttp = new XMLHttpRequest();
+	xhttp.addEventListener("load", function() {callback(JSON.parse(this.responseText));});
+	xhttp.addEventListener("error", function() {console.error('trouble making request.  response:  ', this.statusText);});
+	xhttp.open("GET", url, true);
+	xhttp.send();
+}
+
+		</script>
+		<style>
+.table {
+	width: 30%;
+	margin: auto;
+	margin-bottom: 20px;
+	background-color: #888;
+	font-size: medium;
+	padding: 1px;
+}
+
+.row {
+	background-color: #aaa;
+	margin: 1px;
+	padding: 5px;
+}
+
+.name {
+	padding: 2px;
+	white-space: nowrap;
+}
+.column {
+	padding: 2px;
+	width: 1px;
+	white-space: nowrap;
+}
+		</style>
+	</head>
+	<body onLoad="onLoad();return true;">
+		<span id="loading">loading . . .</span>
+		<div id="data"></div>
+		data from dkg.<br />
+	</body>
+</html>
