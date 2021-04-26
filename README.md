@@ -2,6 +2,8 @@
 
 ![Kona](https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/162169741_451293522814511_6402065940682663475_n.jpg?tp=1&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_ohc=oe-HbxwfkxcAX8K0yqV&edm=AABBvjUAAAAA&ccb=7-4&oh=b946d82c962d03d48989d4ec598eca6f&oe=608A6B04&_nc_sid=83d603)
 
+In 2021, we are looking forward to some return to normalization. Check out our virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr) this summer from May 15th through July 18!
+
 A highlight of 2020, we participated in Phoenix Bike's Raise + Ride event, which in total raised over $70k!
 
 BikeneticX Cyclocross is our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
