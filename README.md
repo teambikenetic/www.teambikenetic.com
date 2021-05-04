@@ -1,8 +1,12 @@
 #### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
-![Kona](https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/162169741_451293522814511_6402065940682663475_n.jpg?tp=1&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_ohc=oe-HbxwfkxcAX8K0yqV&edm=AABBvjUAAAAA&ccb=7-4&oh=b946d82c962d03d48989d4ec598eca6f&oe=608A6B04&_nc_sid=83d603)
+![Pete, Jamie, and Patricia](https://www.teambikenetic.com/images/rpi-pll.png)
 
-In 2021, we are looking forward to some return to normalization. Check out our virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr) this summer from May 15th through July 18!
+##### 2021
+
+This year, we are looking forward to some return to normalization. Registration is open! Check out our virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr) this summer from May 15th through July 18!
+
+##### Past events
 
 A highlight of 2020, we participated in Phoenix Bike's Raise + Ride event, which in total raised over $70k!
 
@@ -19,6 +23,8 @@ In the past, we ran our gravel crit, Dirty BikenetiCrit! for four years. Results
 - [2018 results](https://www.road-results.com/race/10775)
 - [2017 results](https://www.road-results.com/race/9552)
 - [2016 results](https://www.road-results.com/race/8243)
+
+##### About Team Biekentic
 
 We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from Industry Nine, Kona, Jamis, Raleigh, and Norco in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
 
