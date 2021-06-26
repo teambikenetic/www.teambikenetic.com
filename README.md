@@ -4,7 +4,11 @@
 
 ##### 2021
 
-This year, we are looking forward to some return to normalization. Registration is open! Check out our virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr) this summer from May 15th through July 18!
+- This year, we are looking forward to some return to normalization. CX season is looking promising!
+
+- Check out our virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr) this summer from May 15th through July 18!
+
+- We are also participating in Phoenix Bikes Raise + Ride: Sizzling Summer Century again this year, check out our [fundraising page](https://www.pledgereg.com/3933/t/teambikenetic).
 
 ##### Past events
 
