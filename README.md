@@ -4,11 +4,11 @@
 
 ##### 2021
 
-- This year, we are looking forward to some return to normalization. CX season is looking promising!
+- This year, we are optimistic that some CX events will be able to happen!
 
-- Check out our virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr) this summer from May 15th through July 18!
+- We recently wrapped up our summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
 
-- We are also participating in Phoenix Bikes Raise + Ride: Sizzling Summer Century again this year, check out our [fundraising page](https://www.pledgereg.com/3933/t/teambikenetic).
+- We also participated in Phoenix Bikes Raise + Ride: Sizzling Summer Century again this year, check out our [fundraising page](https://www.pledgereg.com/3933/t/teambikenetic).
 
 ##### Past events
 
