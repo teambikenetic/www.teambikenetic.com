@@ -4,9 +4,9 @@
 
 ##### 2021
 
-- This year, BikenetiCX will be October 31 at a new venue! We're excited to deliver a new course at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA. This is about 5 minutes from our race in 2019. Registration [on BikeReg](https://www.bikereg.com/52172) is open!
+- This year, BikenetiCX was on October 31 at a new venue! We had an excellent day on a new course at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA. This is about 5 minutes from our race in 2019.
 
-- We recently wrapped up our summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
+- We ran a new summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
 
 - We also participated in Phoenix Bikes Raise + Ride: Sizzling Summer Century again this year, check out our [fundraising page](https://www.pledgereg.com/3933/t/teambikenetic).
 
@@ -15,6 +15,7 @@
 A highlight of 2020, we participated in Phoenix Bike's Raise + Ride event, which in total raised over $70k!
 
 BikeneticX Cyclocross is our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
+- [2021 results](https://www.crossresults.com/race/10528)
 - [2019 results](https://www.crossresults.com/race/9776)
 - [2018 results](https://www.crossresults.com/race/8767)
 - [2017 results](https://www.crossresults.com/race/7924)
