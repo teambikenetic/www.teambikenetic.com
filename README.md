@@ -4,7 +4,7 @@
 
 ##### 2021
 
-- This year, BikenetiCX was on October 31 at a new venue! We had an excellent day on a new course at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA. This is about 5 minutes from our race in 2019.
+- New for 2021, BikenetiCX was on October 31 at a new venue! We had an excellent day on a new course at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA. This beautiful property about 5 minutes from our race in 2019.
 
 - We ran a new summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
 
