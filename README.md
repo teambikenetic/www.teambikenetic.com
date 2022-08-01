@@ -6,7 +6,6 @@
 
 - BikenetiCX will be on October 30th at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA.
 
-
 ##### Past events
 
 Virtual events:
