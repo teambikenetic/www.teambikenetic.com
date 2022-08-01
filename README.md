@@ -2,17 +2,16 @@
 
 ![Pete, Jamie, and Patricia](https://www.teambikenetic.com/images/rpi-pll.png)
 
-##### 2021
+##### 2022
 
-- New for 2021, BikenetiCX was on October 31 at a new venue! We had an excellent day on a new course at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA. This beautiful property about 5 minutes from our race in 2019.
+- BikenetiCX will be on October 30th at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA.
 
-- We ran a new summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
-
-- We also participated in Phoenix Bikes Raise + Ride: Sizzling Summer Century again this year, check out our [fundraising page](https://www.pledgereg.com/3933/t/teambikenetic).
 
 ##### Past events
 
-A highlight of 2020, we participated in Phoenix Bike's Raise + Ride event, which in total raised over $70k!
+Virtual events:
+- A highlight of 2020 and 2021, we participated in Phoenix Bike's Raise + Ride events.
+- We ran a new summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
 
 BikeneticX Cyclocross is our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
 - [2021 results](https://www.crossresults.com/race/10528)
