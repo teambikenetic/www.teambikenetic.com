@@ -1,10 +1,10 @@
 #### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
-![Pete, Jamie, and Patricia](https://www.teambikenetic.com/images/rpi-pll.png)
+![Wilson and Jan](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/379053415_337844118679126_5259650841581986737_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=GijdtrKTuekAX-gHRF3&_nc_oc=AQmWvkqthWmhwLsUHtL1xel0koymmFqn7nqSA79FJNA-fVlrqozs8w8FyOQvjq3CM7s&_nc_ht=scontent-iad3-1.cdninstagram.com&oh=00_AfCVaLuGMQK1guqypgf6mow71gMTmHRR9uzjd75iryVlaA&oe=650BC94E)
 
-##### 2022
+##### 2023
 
-- BikenetiCX will be on October 30th at [Cedar Run Brewery](http://www.cedarrunbrewery.com/) in Nokesville, VA.
+- BikenetiCX will be on October 29th at [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.
 
 ##### Past events
 
