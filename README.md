@@ -4,7 +4,7 @@
 
 ##### 2023
 
-- BikenetiCX will be on October 29th at [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.
+- BikenetiCX will be on October 29th at [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA. [Registration is open!](https://www.bikereg.com/61957)
 
 ##### Past events
 
