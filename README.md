@@ -4,13 +4,9 @@
 
 ##### 2023
 
-- BikenetiCX will be on October 29th at [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA. [Registration is open!](https://www.bikereg.com/61957)
+- BikenetiCX was on on October 29th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA. [Results are here.](https://www.crossresults.com/race/11977).
 
 ##### Past events
-
-Virtual events:
-- A highlight of 2020 and 2021, we participated in Phoenix Bike's Raise + Ride events.
-- We ran a new summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
 
 BikeneticX Cyclocross is our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
 - [2021 results](https://www.crossresults.com/race/10528)
@@ -20,6 +16,10 @@ BikeneticX Cyclocross is our annual CX race, part of the [BikeReg Cyclocross Sup
 - [2016 results](https://www.crossresults.com/race/6900)
 - [2015 results](https://www.crossresults.com/race/5900)
 - [2014 results](https://www.crossresults.com/race/4944)
+
+Virtual events:
+- A highlight of 2020 and 2021, we participated in Phoenix Bike's Raise + Ride events.
+- We ran a new summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
 
 In the past, we ran our gravel crit, Dirty BikenetiCrit! for four years. Results are here:
 - [2019 results](https://www.crossresults.com/race/9082)
