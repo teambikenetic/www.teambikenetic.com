@@ -1,10 +1,10 @@
 #### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
-![Wilson and Jan](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/379053415_337844118679126_5259650841581986737_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=GijdtrKTuekAX-gHRF3&_nc_oc=AQmWvkqthWmhwLsUHtL1xel0koymmFqn7nqSA79FJNA-fVlrqozs8w8FyOQvjq3CM7s&_nc_ht=scontent-iad3-1.cdninstagram.com&oh=00_AfCVaLuGMQK1guqypgf6mow71gMTmHRR9uzjd75iryVlaA&oe=650BC94E)
+![Becky and Casey](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/406784902_18403179115035324_7740372017812636436_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=2iLG0vcgJgkAX-AYSwG&_nc_ht=scontent-iad3-2.xx&oh=00_AfDpQRDplABcmqmBdGUSk6MWTbSNagOgkBKi8R_4sD_fmQ&oe=65A32A0C)
 
 ##### 2023
 
-- BikenetiCX was on on October 29th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA. [Results are here.](https://www.crossresults.com/race/11977).
+- BikenetiCX was on October 29th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA. [Results are here.](https://www.crossresults.com/race/11977).
 
 ##### Past events
 
