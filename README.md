@@ -1,6 +1,6 @@
 #### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
-![Becky and Casey](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/406784902_18403179115035324_7740372017812636436_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=2iLG0vcgJgkAX-AYSwG&_nc_ht=scontent-iad3-2.xx&oh=00_AfDpQRDplABcmqmBdGUSk6MWTbSNagOgkBKi8R_4sD_fmQ&oe=65A32A0C)
+![Jan at Cap CX](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/410659669_10161779952740815_9075845082192236001_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dlok6f0vNSsQ7kNvgHWDBY2&_nc_ht=scontent-ord5-1.xx&oh=00_AfDxgdx4hL_xJ9HbWJErjiBQO3AeYb1OyYzjPmNPL_ZOkw&oe=6639AF62)
 
 ##### 2023
 
