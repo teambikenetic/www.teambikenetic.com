@@ -20,7 +20,7 @@ Virtual events:
 - A highlight of 2020 and 2021, we participated in Phoenix Bike's Raise + Ride events.
 - We ran a new summer virtual event, ['We Should Go For a Bike Ride' Challenge](https://www.bikereg.com/wsgfabr). With your help we were able to raise approximately $19k USD for [Phoenix Bikes](https://www.phoenixbikes.org/), [MORE](https://more-mtb.org/), and [WABA](https://waba.org/).
 
-In the past, we ran our gravel crit, Dirty BikenetiCrit! for four years. Results are here:
+In addition, we ran a gravel crit, Dirty BikenetiCrit! for four years. Results are here:
 - [2019 results](https://www.crossresults.com/race/9082)
 - [2018 results](https://www.road-results.com/race/10775)
 - [2017 results](https://www.road-results.com/race/9552)
