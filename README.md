@@ -1,10 +1,8 @@
 #### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
+- Our premier event, BikenetiCX, will be on October 27th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.  Registration will open soon!
+
 ![Stearman at BikenetiCX](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/457616791_18320365297195733_3547937347767125899_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5CIGo2gO1LEQ7kNvgGSA9eo&_nc_ht=scontent-iad3-2.xx&_nc_gid=A-2RBhmG4_t_-AXspt0GAwb&oh=00_AYA7yNS-dtXINI1-SI7eVaSbSaR6a5DjrO4sMJ4BG9cRAQ&oe=66DF8F00)
-
-##### 2024
-
-- BikenetiCX will be on October 27th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.  Registration will open soon!
 
 ##### Past events
 
