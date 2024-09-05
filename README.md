@@ -1,14 +1,15 @@
 #### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
 
-![Jan at Cap CX](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/410659669_10161779952740815_9075845082192236001_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dlok6f0vNSsQ7kNvgHWDBY2&_nc_ht=scontent-ord5-1.xx&oh=00_AfDxgdx4hL_xJ9HbWJErjiBQO3AeYb1OyYzjPmNPL_ZOkw&oe=6639AF62)
+![Stearman at BikenetiCX](https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/457616791_18320365297195733_3547937347767125899_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5CIGo2gO1LEQ7kNvgGSA9eo&_nc_ht=scontent-iad3-2.xx&_nc_gid=A-2RBhmG4_t_-AXspt0GAwb&oh=00_AYA7yNS-dtXINI1-SI7eVaSbSaR6a5DjrO4sMJ4BG9cRAQ&oe=66DF8F00)
 
-##### 2023
+##### 2024
 
-- BikenetiCX was on October 29th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA. [Results are here.](https://www.crossresults.com/race/11977).
+- BikenetiCX will be on October 27th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.  Registration will open soon!
 
 ##### Past events
 
 BikeneticX Cyclocross is our annual CX race, part of the [BikeReg Cyclocross Super Series](https://www.facebook.com/Super8cyclocross/)
+- [2023 results](https://www.crossresults.com/race/11977)
 - [2021 results](https://www.crossresults.com/race/10528)
 - [2019 results](https://www.crossresults.com/race/9776)
 - [2018 results](https://www.crossresults.com/race/8767)
