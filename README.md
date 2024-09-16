@@ -2,7 +2,7 @@
 
 Our premier event, BikenetiCX, will be on October 27th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.  Registration will open soon!
 
-![Stearman at BikenetiCX](https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/457616791_18320365297195733_3547937347767125899_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=io9kSeQWuaUQ7kNvgGfkvGk&_nc_ht=scontent-lga3-1.xx&_nc_gid=ARsW8xqf63fXUvN2ReWVqrS&oh=00_AYA1Ba7zeKAlj6T77hDkMhAz9oH9GY25MT636zTVoVupDg&oe=66E7B040)
+![Stearman at BikenetiCX](./images/457616791_18320365297195733_3547937347767125899_n.jpg)
 
 [📷 Dominion Cycling Photograhy](https://dominioncyclingphotography.zenfolio.com/)
 
