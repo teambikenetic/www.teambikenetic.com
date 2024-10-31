@@ -2,7 +2,7 @@
 
 Our premier event, BikenetiCX, was on October 27th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.  
 
-Two excellent galleries of photos from the event are online from [Dominion Cycling Photography](https://dominioncyclingphotography.zenfolio.com/p929434141) and [Darrell Parks](https://darrellparks.smugmug.com/Bikenetic-CX-2024)
+Two excellent galleries of photos from the event are online from [Dominion Cycling Photography](https://dominioncyclingphotography.zenfolio.com/p929434141) and [Darrell Parks](https://darrellparks.smugmug.com/Bikenetic-CX-2024).
 
 ![Stearman at BikenetiCX](./images/457616791_18320365297195733_3547937347767125899_n.jpg)
 
