@@ -1,4 +1,5 @@
-### Team Bikenetic is a cyclocross and mountain bike racing team in the Washington DC area. 
+### Team Bikenetic
+##### Cyclocross and mountain bike racing team in the Washington, DC region
 
 Our premier event, BikenetiCX, will be on Sunday, October 26th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.   Registration opens on [BikeReg](https://bikereg.com/71991) on September 1.
 
@@ -31,7 +32,7 @@ In addition, we ran a gravel crit, Dirty BikenetiCrit! for four years. Results a
 - [2017 results](https://www.road-results.com/race/9552)
 - [2016 results](https://www.road-results.com/race/8243)
 
-##### About Team Biekentic
+##### About Team Bikenetic
 
 We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from Industry Nine in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
 
