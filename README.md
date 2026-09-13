@@ -1,9 +1,7 @@
 ### Team Bikenetic
 ##### Cyclocross and mountain bike racing team in the Washington, DC region
 
-Our premier event, BikenetiCX, will be on Sunday, October 26th at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.   Registration is open on [BikeReg](https://bikereg.com/71991)!
-
-Two excellent galleries of photos from last year's event are online from [Dominion Cycling Photography](https://dominioncyclingphotography.zenfolio.com/p929434141) and [Darrell Parks](https://darrellparks.smugmug.com/Bikenetic-CX-2024).
+Our premier event, BikenetiCX, will be on Sunday, October 25th, 2026 at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.   Registration will open on September 14th on [BikeReg](https://www.bikereg.com/bikeneticx).
 
 ![Stearman at BikenetiCX](./images/457616791_18320365297195733_3547937347767125899_n.jpg)
 
@@ -12,6 +10,7 @@ Two excellent galleries of photos from last year's event are online from [Domini
 #### Past events and results
 
 BikenetiCX historical results:
+- [2025 results](https://www.crossresults.com/race/13365)
 - [2024 results](https://www.crossresults.com/race/12662)
 - [2023 results](https://www.crossresults.com/race/11977)
 - [2021 results](https://www.crossresults.com/race/10528)
@@ -35,8 +34,6 @@ In addition, we ran a gravel crit, Dirty BikenetiCrit! for four years. Results a
 ##### About Team Bikenetic
 
 We’re sponsored and fully supported by [Bikenetic Full Service Bike Shop](https://www.bikenetic.com/), 201 West Jefferson St, Falls Church VA 22046, phone 703-KEG-RIDE. Thanks to Bikenetic, we also enjoy superb equipment sponsorship from Industry Nine in addition to excellent local support from Falls Church businesses: [Stahl Homes LLC](http://stahlhomes.com/), [Cafe Kindred](http://www.cafekindred.com/), and [Clare and Don's Beach Shack](http://www.clareanddons.com/).
-
-In the past we published a brief, weekly [podcast](https://overcast.fm/itunes1436089238/team-bikenetic-bicycle-shorts). It is public but oriented towards the team or interests of the team. Currently on a break, but might pick the mic back up this season. Feel free to subscribe, feedback is welcome. [Overcast](https://overcast.fm/itunes1436089238/team-bikenetic-bicycle-shorts), [iTunes](https://itunes.apple.com/us/podcast/team-bikenetic-bicycle-shorts/id1436089238?mt=2), or [Stitcher](https://www.stitcher.com/s?fid=233261).
 
 Basically, we have fun in dirt. But we also do lots of public service and outreach: [MORE](http://www.more-mtb.org/) trail-building, [Bike to Work Day](https://www.biketoworkmetrodc.org/) support, [WABA](http://www.waba.org/) advocacy, and [Phoenix Bikes](http://www.phoenixbikes.org/) volunteering.
 
