@@ -1,7 +1,7 @@
 ### Team Bikenetic
 ##### Cyclocross and mountain bike racing team in the Washington, DC region
 
-Our premier event, BikenetiCX, will be on Sunday, October 25th, 2026 at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.   Registration will open on September 14th on [BikeReg](https://www.bikereg.com/bikeneticx).
+Our premier event, BikenetiCX, will be on Sunday, October 25th, 2026 at the [Loudon County Fair Grounds](https://loudouncountyfair.com/) in Leesburg, VA.   Registration is open on [BikeReg](https://www.bikereg.com/bikeneticx).
 
 ![Stearman at BikenetiCX](./images/457616791_18320365297195733_3547937347767125899_n.jpg)
 
